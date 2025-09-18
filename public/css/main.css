@@ -1,0 +1,20 @@
+body {
+    background-color: blue;
+    color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+.card {
+    background-color: rgba(145, 216, 142, 0.9);
+    border-radius: 25px;
+}
+.text-center{
+    color: rgb(12, 26, 223);
+}
+h1.text-center{
+    color: rgb(217, 228, 60);
+    
+}
